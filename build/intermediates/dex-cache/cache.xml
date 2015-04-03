@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\yukang\AndroidStudioProjects\owifi_android\app\libs\jpush-sdk-release1.7.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="60d6ab0c8767ceef6bf652b97b35fc508535b28a">
+        <dex dex="C:\Users\yukang\AndroidStudioProjects\owifi_android\app\build\intermediates\pre-dexed\debug\jpush-sdk-release1.7.3-52911b9bc333d4bb41472411b5abac67132703a9.jar" />
+    </item>
+
+</items>
